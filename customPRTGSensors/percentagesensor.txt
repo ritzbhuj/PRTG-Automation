@@ -1,0 +1,2 @@
+#1:sfp1-interface-name-capacity
+percent(channel(4336,0),50,megabit)
